@@ -16,6 +16,5 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Ben
-[instagram]: https://www.instagram.com/Ben
-[linkedin]: https://linkedin.com/in/Ben
+[instagram]: https://www.instagram.com/b6n_harper
+[linkedin]: https://www.linkedin.com/in/benjamin-harper-32221b21b/
