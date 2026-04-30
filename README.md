@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ben, an <a href="https://linkedin.com/in/https://www.linkedin.com/in/benjamin-harper-32221b21b/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Ben, an <a href=https://www.linkedin.com/in/benjamin-harper-32221b21b/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
