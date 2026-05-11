@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Installation Configuration](https://github.com/benjharper/post-install-config)
+  - [osTicket: Ticket Lifestyle Simulation](https://github.com/benjharper/ticket-lifestyle-simulation)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/benjharper/azure-network-protocols)
 
